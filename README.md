@@ -1,5 +1,9 @@
 # OPTIMOVE — Smart Truck Loading Optimization System
 
+
+## 🚀 Live Demo
+Try the live application here: [Smart Truck Optimisation](https://smart-truck-optimisation.streamlit.app/)
+
 **Optimove** is a 3D logistics web application designed to optimize cargo arrangements inside freight trucks. It accounts for spatial boundaries, vehicle payloads, rear-door clearances, cargo orientations, gravity support, stackability, fragile cargo protection, and cumulative top loads.
 
 Optimove is engineered with a strict **Data Privacy Architecture**: all calculations, placements, and operational reports are generated dynamically in temporary session memory and are **never** persisted to server-side databases or plan histories.
